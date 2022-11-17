@@ -1,0 +1,124 @@
+.menu{
+    float:right;
+  }
+  .nature_background{
+    background-image: url("https://images.pexels.com/photos/4552895/pexels-photo-4552895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size:cover;
+  
+  }
+  .headmenu{
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.5);
+  }
+  ul li{
+    display: inline-block;
+    color:aliceblue;
+    margin-left:20px;
+    
+  }
+  .headbtn1{
+    padding: 5px 10px;
+    color:white;
+    background-color: transparent;
+    border-radius: 6px;
+    margin-right: 10px;
+  }
+  .headbtn1:hover{
+    border:1px solid white;
+  }
+  .headbtn2{
+    padding: 5px 10px;
+    background-color: yellow;
+    border-radius: 6px;
+  }
+  .nature_heading{
+    color:white;
+    padding:100px 10px 100px 50px;
+  }
+  .seconddiv_menu ul li{
+    display:inline-block;
+    padding: 10px;
+    color:white;
+  }
+  .seconddiv_menu ul li:hover{
+    background-color: greenyellow;
+    color:green;
+    border-radius: 20px;
+    cursor: pointer;
+    
+  }
+.seconddiv_box1{
+    background-color:#2A2733;
+    color:white;
+     height: 350px;
+    width: 300px; 
+    text-align: center;
+    margin:10px;
+    border-radius: 10px;
+}
+.bodybtn1{
+    background-color:#2A2733;
+    border-color:greenyellow ;
+    color:white;
+    border-radius: 5px;
+}
+.seconddiv_background{
+    background: black;
+}
+.seconddiv_image4{
+    height: 50vh;
+    background-image: url("https://images.pexels.com/photos/606453/pexels-photo-606453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size:cover;
+    opacity: 0.7;
+}
+
+
+.mapdiv_1{
+    color:green;
+}
+.manimage{
+    /* height: 20vh;
+    
+    background-image: url("https://images.pexels.com/photos/606453/pexels-photo-606453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+     */
+}
+.card{
+    background: black;
+}
+.card2{
+    background:rgb(0,89,83);
+    color:#fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cardbtn1{
+    background-image: linear-gradient(to right,yellow,white);
+    color: green;
+    border:none;
+    border-radius: 5px;
+    padding:5px 10px;
+}
+.card_footer{
+    background-image: url("https://w0.peakpx.com/wallpaper/385/909/HD-wallpaper-beautiful-trees-path-nature-park-way-trees.jpg");
+    background-size:cover;
+    filter:blur(2px);
+    height: 30vh;
+}
+.full{
+    overflow:visible;
+    
+}
+.threeimage{
+  background-image: url("file:///C:/Users/arunk/OneDrive/Desktop/bigbang/client/src/images/hut.png");
+    background-size:cover;
+    height:20vh;
+    margin: 10px;
+    border-radius: 10px;
+}
+.mapimg{
+  width:100vw;
+}
+.lastdiv{
+  background-color: #002E00;
+}
